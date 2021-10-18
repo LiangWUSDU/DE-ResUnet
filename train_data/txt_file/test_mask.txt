@@ -1,0 +1,10 @@
+1_mask.nii.gz
+2_mask.nii.gz
+3_mask.nii.gz
+4_mask.nii.gz
+7_mask.nii.gz
+8_mask.nii.gz
+9_mask.nii.gz
+11_mask.nii.gz
+12_mask.nii.gz
+13_mask.nii.gz
