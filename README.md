@@ -17,7 +17,7 @@ Tensorflow
 
 If you use our code, please cite the following paper:
 
-Liang Wu, Yuwen Wang, Shunbo Hu, Changchun Liu."MR Brain Segmentation Based on DE-ResUnet Combining Texture Features and Background Knowledge"
+Liang Wu, Shunbo Hu, Changchun Liu."MR Brain Segmentation Based on DE-ResUnet Combining Texture Features and Background Knowledge"
 
 # Acknowledgment：
 Some codes in this repository are modified from Labreg (https://github.com/YipengHu/label-reg), VoxelMorph(https://github.com/voxelmorph/voxelmorph) and GLCM (https://github.com/tzm030329/GLCM).
