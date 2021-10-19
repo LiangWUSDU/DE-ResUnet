@@ -1,4 +1,4 @@
-# EDW
+#DE-ResUnet
  MR Brain Segmentation Based on DE-ResUnet Combining Texture Features and Background Knowledge
  
  The code was written by Dr. Liang Wu, Shandong University.
